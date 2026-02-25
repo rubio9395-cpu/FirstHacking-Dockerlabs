@@ -1,4 +1,5 @@
 # FirstHacking - DockerLabs
+![foto](Gemini_Generated_Image_g8i1jgg8i1jgg8i1.png)
 
 ## 📌 Información General
 
